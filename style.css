@@ -7,12 +7,12 @@
     max-width: 400px;
     margin: 0 auto;
     padding: 30px;
-    background: rgb(207, 114, 207);
+    background: rgb(255, 255, 255);
     border-radius: 20px;
 }
 
 h1 {
-    color:rgb(28, 10, 44);
+    color:rgb(60, 105, 187);
     text-align: center;
 }
 
@@ -23,23 +23,25 @@ input{
 }
 
 #resultado {
-    font-size: 29px;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
 }
 
-label {
-  display: block;
-  margin-top: 14px;
-  font-weight: bold;
+label{
+    margin-top: 14px;
+    font-weight: bold;
+    display: block;
+    
 }
 
-button {
-width: 100%;
-margin-top: 20px;
-padding: 12%;
-background: 2b6cb0;
-color: brown;
-border: nome;
-border-radius: 6px;
+bottom{
+    width: 100%px;
+    margin-top: 10px;
+    padding: 8px;
+    background: #2b6cb0;
+    color:white;
+    border: none;
+    border-radius: 6px;
+    
 }
